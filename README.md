@@ -1,5 +1,12 @@
 # RafaelValverdeCros.github.io
 
+author: Rafael Valverde Cros
+summary: Bastionar el arranque de un sistema Debian a mi eleccion
+id: bastionar-arranque-mi-ordenador-rvc
+categories: bios,markdown
+environments: Web
+status: Published
+
 # Bastionar el arranque de mi ordenador personal 
 
 ## Configurando mi BIOS
